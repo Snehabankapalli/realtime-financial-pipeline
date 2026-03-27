@@ -1,0 +1,8 @@
+pyspark==3.5.1
+confluent-kafka==2.4.0
+confluent-kafka[avro]==2.4.0
+snowflake-connector-python==3.8.0
+boto3==1.34.0
+datadog==0.49.0
+pytest==8.1.0
+pytest-mock==3.14.0
